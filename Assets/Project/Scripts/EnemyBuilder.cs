@@ -47,10 +47,11 @@ namespace Wormhole
             splineAnimate.MaxSpeed = speed;
 
 
-            instance.transform.position = spline.EvaluatePosition(0f);
+            instance.transform.position = (Vector3)spline.EvaluatePosition(t: 0f);
+
+            splineAnimate.Restart(true);
 
             return instance;
         }
     }
-
 }
