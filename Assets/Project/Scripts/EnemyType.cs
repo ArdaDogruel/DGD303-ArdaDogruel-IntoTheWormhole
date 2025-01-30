@@ -6,7 +6,6 @@ namespace Wormhole
     public class EnemyType : ScriptableObject
     {
         public GameObject enemyPrefab;
-        public GameObject weaponPrefab;
         public float speed = 2f;
     }
 }

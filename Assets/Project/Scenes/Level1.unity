@@ -4091,7 +4091,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyTypes:
-  - {fileID: 11400000, guid: 5d78892b86e9a0e4daa201b5976f555c, type: 2}
+  - {fileID: 11400000, guid: 43a11fae495513e4cb69dd6824f9ff2d, type: 2}
   maxEnemies: 100
   spawnInterval: 1
 --- !u!1 &1726889599

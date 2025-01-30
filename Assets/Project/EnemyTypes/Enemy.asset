@@ -10,8 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 583f687c9ebd83448b79be46e98d60e3, type: 3}
-  m_Name: Enemy1
+  m_Name: Enemy
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 392571632405862057, guid: 4a1439ae75c93bc48824e4c4a1adeb10, type: 3}
-  weaponPrefab: {fileID: 0}
-  speed: 5.5
+  speed: 8
